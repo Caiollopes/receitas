@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 
-## 🔖 Layout
+## 🔖 Web site
 
-Você pode visualizar este projeto através [DESSE LINK](https://caiollopes.github.io/receitas-rks/){:target="_blank" rel="noopener"}.
+Você pode visualizar este projeto 
+<a href="https://caiollopes.github.io/receitas-rks/" target="_blank">Clicando aqui!</a>
