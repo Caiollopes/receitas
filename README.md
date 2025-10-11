@@ -31,4 +31,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar este projeto através [DESSE LINK](caiollopes.github.io/receitas-rks/).
+Você pode visualizar este projeto através [DESSE LINK](https://caiollopes.github.io/receitas-rks/).
